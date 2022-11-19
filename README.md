@@ -5,7 +5,6 @@
 
 # Kullanılan Kütüphaneler:
 
-* numpy
 * pandas
 * matplotlib
 * seaborn
@@ -33,18 +32,21 @@
 # Yapılan Analiz ve Görselleştirmeler
 
  * Ülkelere göre çekilen film sayısı.
+ * 
 En çok film çekimi yapan ülkenin USA olduğunu görebiliriz.
  
  ![86ae608d-06a4-4240-aff9-50be7ec05b65](https://user-images.githubusercontent.com/114106816/202867922-89af9145-35f7-4e45-8ff3-08ba81b87977.png)
 
  
 * Ülkelere göre hangi tür filmlerin çekildiği, en çok çekilen film türü.
+
 En çok çekilen film türünün drama olduğunu görebiliriz
 
 ![067bd28a-7bd9-4510-ac5f-23e529a105d7](https://user-images.githubusercontent.com/114106816/202867928-075a315e-f53f-4f57-bc5e-76a9f70c3269.png)
 
 
 * Aktörlerin oynadığı filmler, aktörlerin oynadığı film sayısı, filmlerde oynayan kadın-erkek oranı
+
 Oyuncuların büyük bir çoğunluğunun kadın olduğunu söyleyebilriz.
 
 ![ce5f8277-a243-4424-9df6-6cc2a7ebfdea](https://user-images.githubusercontent.com/114106816/202867955-9f6f6619-e09b-4da8-8e98-598fb64f6126.png)
@@ -64,6 +66,8 @@ Animasyon türünde kadın erkek oranın eşit olduğunu gördük.
 
 
 * Filmlerin sıralaması ve yorumlama
+
+
 Sıralaması 7 ve üzeri alan filmler için 'çok iyi', 5(dahil) ve 7 arasındaki filmler için 'ortalama' diğerleri için de 'İyi değil' yorumu yaptım ve tablodanda gördüğümüz gibi 5 (dahil) puan ile 7 puan sıralamasında yer alan film sayısı en fazla.
 
 ![3936afa9-eaca-45cc-889b-1e56d1fb1daa](https://user-images.githubusercontent.com/114106816/202868109-1b6ae56b-2daf-4f5c-abfa-2c636d270939.png)
